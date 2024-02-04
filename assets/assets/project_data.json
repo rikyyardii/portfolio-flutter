@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Sistem Rekomendasi Buku",
+      "description": "Sistem rekomendasi buku perpustakaan sekolah menggunakan metode content based filtering",
+      "url": "https://github.com/rikyyardii/book-recomendation-cbf",
+      "tags": ["Javascript", "PHP", "HTML"]
+    },
+    {
+      "id": 2,
+      "title": "Sistem Informasi Mahasiswa",
+      "description": "Sistem informasi pendataan mahasiswa menggunakan framework Codeigniter 3",
+      "url": "https://github.com/rikyyardii/pendataan-mhs",
+      "tags": ["HTML", "PHP", "CSS"]
+    },
+    {
+      "id": 3,
+      "title": "Weather App",
+      "description": "Aplikasi cuaca android dengan menggunakan framework flutter dan menggunakan API dari OpenWeather",
+      "url": "https://github.com/rikyyardii/weather-app",
+      "tags": ["Flutter", "Dart", "C++"]
+    },
+    {
+      "id": 4,
+      "title": "News App",
+      "description": "Aplikasi berita android menggunakan framework flutter dan menggunakan API Json",
+      "url": "https://github.com/rikyyardii/news-app",
+      "tags": ["Flutter", "Dart", "Json"]
+    },
+    {
+      "id": 5,
+      "title": "Portfolio Flutter",
+      "description": "Aplikasi dan Website Portofolio menggunakan framework flutter",
+      "url": "https://github.com/rikyyardii/portfolio-flutter",
+      "tags": ["Flutter", "Dart", "C++"]
+    },
+    {
+      "id": 6,
+      "title": "Notes App",
+      "description": "Aplikasi catatan android sederhana dengan local storage menggunakan framework flutter",
+      "url": "https://github.com/rikyyardii/notes-app",
+      "tags": ["Flutter", "Dart", "C++"]
+    }
+  ]
+}
